@@ -1,0 +1,10 @@
+username="admin"
+password="Password"
+endpoint="10.0.0.1"
+port=9440
+clusterid="00057585-1b05-8290-0000-00000000d15e"
+image-id="d8b1f071-843d-4c14-8da9-a69815b91cc8"
+bastion-count=1
+master-count=1
+worker-count=1
+etcd-count=1
