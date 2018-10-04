@@ -1,7 +1,7 @@
 package provisioner
 
 import (
-	"github.com/kubernauts/tk8/internal/cluster"
+	"github.com/kubernauts/tk8-provisioner-nutanix/internal/cluster"
 )
 
 type Nutanix struct {
